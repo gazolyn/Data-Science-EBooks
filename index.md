@@ -6,7 +6,7 @@ No | Section | Link
 --- | --- | ---
 1 | Ebooks | [Click Here](#Ebooks)
 2 | Interview Resources | [Click Here](#interview-resources)
-3 | CheatSheets | [Click Here](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/cheatsheet.md)
+3 | CheatSheets | [Click Here](#cheatsheets)
 
 <br>
 
@@ -129,6 +129,15 @@ No | Title | Link
 --- | --- | ---
 1 | Python Interview Questions | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Interview/python_interview_questions.pdf)
 2 | Ultimate Guide to Data Science Interviews | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Interview/UltimateGuidetoDataScienceInterviews-2.pdf)
+
+<br>
+
+## Cheat Sheets
+
+No | Title | Link
+--- | --- | ---
+1 | Pandas DataFrames | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/Pandas%20DataFrame.pdf)
+2 | Python-3 | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/python3.pdf)
 
 <br>
 <br>

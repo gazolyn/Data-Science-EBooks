@@ -4,12 +4,14 @@
 
 ## Table of Contents :
 
+
 No | Section | Link
 --- | --- | ---
-1 | Cheat Sheets | [Click here](#cheat-sheets)
-2 | Interview Resources | [Click Here](#interview)
-3 | Natural Language Processing | [Click Here](#natural-language-processing)
-4 | Text Analysis | [Click Here](#text-analysis)
+1 | Cheat Sheets | [Click Here](#cheat-sheets)
+2 | Data Analysis | [Click Here](#data-analysis)
+3 | Interview Resources | [Click Here](#interview)
+4 | Natural Language Processing | [Click Here](#natural-language-processing)
+5 | Text Analysis | [Click Here](#text-analysis)
 
 
 
@@ -26,6 +28,12 @@ No | Title | Link
 
 
 
+## Data Analysis
+
+No | Title | Author | Link
+--- | --- | --- | ---
+1 | Python for Data Analysis | Wes McKinney | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Data%20Analysis/Python%20for%20Data%20Analysis.pdf)
+2 | Think Stats | Allen B. Downey | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Data%20Analysis/thinkstats2.pdf) 
 
 
 ## Interview

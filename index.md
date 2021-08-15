@@ -4,9 +4,9 @@
 
 No | Section | Link
 --- | --- | ---
-1 | Ebooks | [Click Here](#Ebooks)
+1 | Ebooks | [Click Here](#ebooks)
 2 | Interview Resources | [Click Here](#interview-resources)
-3 | CheatSheets | [Click Here](#cheatsheets)
+3 | CheatSheets | [Click Here](#cheat-sheets)
 
 <br>
 

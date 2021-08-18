@@ -15,14 +15,14 @@ No | Section | Link
 No | Section | Link
 --- | --- | ---
 1 | Data Analysis | [Click Here](#data-analysis)
-2 | Data Science | [NA]()
-3 | Deep Learning | [NA]() 
-4 | Machine Learning | [NA]()
-5 | Miscellaneous | [NA]()
+2 | Data Science | [Click Here](#data-science)
+3 | Deep Learning | [Click Here](#deep-learning) 
+4 | Machine Learning | [Click Here](#machine-learning)
+5 | Miscellaneous | [Click Here](#miscellaneous)
 6 | Natural Language Processing | [Click Here](#natural-language-processing)
-7 | Python | [NA]()
-8 | SQL | [NA]()
-9 | Statistics | [NA]()
+7 | Python | [Click Here](#python)
+8 | SQL | [Click Here](#sql)
+9 | Statistics | [Click Here](#statistics)
 10 | Text Analysis | [Click Here](#text-analysis)
 
 <br>
@@ -47,6 +47,8 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
+1 | Data Science From Scratch | Joel Grus | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Data%20Science/%5BJoel_Grus%5D_Data_Science_from_Scratch_First_Princ.pdf) |
+2 | Python Data Science Handbook | Jake VanderPlas | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Data%20Science/pythondatasciencehandbook.pdf) | 
 
 <br>
 <br>
@@ -55,6 +57,8 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
+1 | Deep Learning | Ian Goodfellow, Yoshua Bengio, Aaron Courville | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Deep%20Learning/Deep%20Learning-Ian%20Goodfellow.pdf) |
+
 
 <br>
 <br>
@@ -65,6 +69,14 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
+1 | Machine Learning | Tom M. Mitchell | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/M1-Machine-Learning-Tom-Mitchell.pdf) |
+2 | Introduction to Machine Learning | Ethem Alpaydın | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/M2-Machine_Learning_By_Ethem_Alpaydin.pdf) |
+3 | Machine Learning : A Probabilistic Perspective | Kevin P. Murphy | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/M3-Machine_Learning.pdf) |
+4 | Understanding Machine Learning: From Theory to Algorithms | Shai-Shalev Schwatrz, Shai Ben-David | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/M4-ML-theory-algorithms.pdf) |
+5 | Machine Learning Models and Algorithms for Big Data Classification | Shan Sutharan | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/machine%20learning%20and%20algo.pdf) |
+6 | Prediction Machines | Ajay Agarwal, Joshua Gans, Avi Goldfarb | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/Prediction%20Machines-The%20Simple%20Economics%20of%20Artificial%20Intelligence%20by%20Ajay%20Agrawal.pdf) |
+7 | Python Machine Learning | Sebastian Raschka | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/Python_Machine_Learning_Sebastian_Raschka.pdf) |
+
 
 <br>
 <br>
@@ -73,6 +85,7 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
+1 | Hadoop : The definitive guide | Tom White | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Miscellaneous/Hadoop-The.Definitive.Guide_4.edition_a_Tom.White_April-2015-1.pdf)
 
 <br>
 <br>
@@ -90,6 +103,8 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
+1 | Python Notes for Professionals | - | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Python/PythonNotesForProfessionals.pdf) |
+
 
 <br>
 <br>
@@ -98,6 +113,7 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
+1 | SQL for dummies | Allen G. Taylor | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/SQL/SQL%20For%20Dummies.pdf) |
 
 <br>
 <br>
@@ -106,6 +122,12 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
+1 | The Elements of Statistical Learning | Trevor Hastie, Robert Tibshirani, Jerome Friedman | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/ELEMENTS%20OF%20STATISTICAL%20ENGINEERING.pdf) |
+2 | Practical Statistics for Data Scientists | Peter Bruce, Andrew Bruce | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Practical%20Statistics%20for%20Data%20Scientists.pdf) |
+3 | Statistics for Buissness and Economics | Anderson Sweeney Williams | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Statistics%20for%20Business%20and%20Economics.pdf) |
+4 | Statistics in Python | Gael Varoquaux | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Statistics%20in%20python.pdf) |
+5 | Statistics Unplugged | Sally Caldwell | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/Statistics%20Unplugged.pdf) |
+6 | The Cartoon Guide to Statistics | Larry Gonick, Woollcott Smith | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Statistics/The%20cartoon%20guide%20to%20statistics.pdf) |
 
 <br>
 <br>

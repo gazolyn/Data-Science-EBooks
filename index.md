@@ -163,8 +163,23 @@ No | Title | Link
 
 No | Title | Link
 --- | --- | ---
-1 | Pandas DataFrames | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/Pandas%20DataFrame.pdf)
-2 | Python-3 | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/python3.pdf)
+1 | CLI | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/CLI-cheat-sheet.pdf)
+2 | Data Exploration in Python | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/Data-Exploration-in-Python.pdf)
+3 | git | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/git-cheatsheet-EN-white.pdf)
+4 | git for subversion | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/git-for-subversion-cheat-sheet.pdf)
+5 | Jupter Notebook | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/JupyterLab-Notebook-Cheatsheet.pdf)
+6 | Kubernetes | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/kubernetes_cheat_sheet_r1v1.pdf)
+7 | Matplotlib | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/Matplotlib_python_cheatsheet.pdf)
+8 | Pandas | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/pandas-cheat-sheet.pdf)
+9 | Pandas DataFrames | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/Pandas%20DataFrame.pdf)
+10 | Python3 | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/python3.pdf)
+11 | Python basic | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/python-cheat-sheet-basic.pdf)
+12 | Python intermediate | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/python-cheat-sheet-intermediate.pdf)
+13 | Python for Data Science | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/PythonForDataScience.pdf)
+14 | Seaborn | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/Seaborn_python_cheatsheet.pdf)
+15 | SQL | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/sql_cheatsheet.pdf)
+16 | VS-code | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/vs-code_cheat-sheet_windows.pdf)
+17 | Workflow of version control | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Cheat%20Sheets/workflow-of-version-control.pdf)
 
 <br>
 <br>

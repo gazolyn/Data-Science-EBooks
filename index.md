@@ -33,7 +33,7 @@ No | Section | Link
 
 
 
-## Data Analysis
+### Data Analysis
 
 No | Title | Author | Link
 --- | --- | --- | ---
@@ -43,7 +43,7 @@ No | Title | Author | Link
 <br>
 <br>
 
-## Data Science
+### Data Science
 
 No | Title | Author | Link
 --- | --- | --- | ---
@@ -53,7 +53,7 @@ No | Title | Author | Link
 <br>
 <br>
 
-## Deep Learning
+### Deep Learning
 
 No | Title | Author | Link
 --- | --- | --- | ---
@@ -65,7 +65,7 @@ No | Title | Author | Link
 
 
 
-## Machine Learning
+### Machine Learning
 
 No | Title | Author | Link
 --- | --- | --- | ---
@@ -81,7 +81,7 @@ No | Title | Author | Link
 <br>
 <br>
 
-## Miscellaneous
+### Miscellaneous
 
 No | Title | Author | Link
 --- | --- | --- | ---
@@ -90,7 +90,7 @@ No | Title | Author | Link
 <br>
 <br>
 
-## Natural Language Processing
+### Natural Language Processing
 
 No | Title | Author | Link
 --- | --- | --- | ---
@@ -99,7 +99,7 @@ No | Title | Author | Link
 <br>
 <br>
 
-## Python
+### Python
 
 No | Title | Author | Link
 --- | --- | --- | ---
@@ -109,7 +109,7 @@ No | Title | Author | Link
 <br>
 <br>
 
-## SQL
+### SQL
 
 No | Title | Author | Link
 --- | --- | --- | ---
@@ -118,7 +118,7 @@ No | Title | Author | Link
 <br>
 <br>
 
-## Statistics
+### Statistics
 
 No | Title | Author | Link
 --- | --- | --- | ---
@@ -132,7 +132,7 @@ No | Title | Author | Link
 <br>
 <br>
 
-## Text Analysis
+### Text Analysis
 
 No | Title | Author | Link
 --- | --- | --- | ---

@@ -49,6 +49,7 @@ No | Title | Author | Link
 --- | --- | --- | ---
 1 | Data Science From Scratch | Joel Grus | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Data%20Science/%5BJoel_Grus%5D_Data_Science_from_Scratch_First_Princ.pdf) |
 2 | Python Data Science Handbook | Jake VanderPlas | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Data%20Science/pythondatasciencehandbook.pdf) | 
+3 | Think Like A Data Scientist | Brian Godsey | [pdf](https://github.com/theDreamer911/Data-Science-EBooks/blob/main/Data%20Science/Think_Like_a_Data_Scientist_Brian_Godsey.pdf) |
 
 <br>
 <br>

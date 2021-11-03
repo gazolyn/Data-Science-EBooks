@@ -150,8 +150,12 @@ No | Title | Author | Link
 
 No | Title | Link
 --- | --- | ---
-1 | Python Interview Questions | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Interview/python_interview_questions.pdf)
-2 | Ultimate Guide to Data Science Interviews | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Interview/UltimateGuidetoDataScienceInterviews-2.pdf)
+1 | Big-data Analysis Interview Questions | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Interview/bigdata-analysis-interview-questions.pdf)
+1 | Data Science Interview Questions | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Interview/Data%20Scientist%20Interview%20Questions.pdf)
+2 | ML Interview Questions | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Interview/ML%20%20questions%20.pdf)
+3 | ML Interview Questions Part 2 | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Interview/ML%20questions_part2.pdf)
+4 | Python Interview Questions | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Interview/python_interview_questions.pdf)
+5 | Ultimate Guide to Data Science Interviews | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Interview/UltimateGuidetoDataScienceInterviews-2.pdf)
 
 <br>
 <br>

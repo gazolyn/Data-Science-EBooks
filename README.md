@@ -79,13 +79,14 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
-1 | Introduction to Machine Learning | Ethem Alpaydın | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/M2-Machine_Learning_By_Ethem_Alpaydin.pdf) |
-2 | Machine Learning | Tom M. Mitchell | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/M1-Machine-Learning-Tom-Mitchell.pdf) |
-3 | Machine Learning : A Probabilistic Perspective | Kevin P. Murphy | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/M3-Machine_Learning.pdf) |
-4 | Machine Learning Models and Algorithms for Big Data Classification | Shan Sutharan | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/machine%20learning%20and%20algo.pdf) |
-5 | Prediction Machines | Ajay Agarwal, Joshua Gans, Avi Goldfarb | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/Prediction%20Machines-The%20Simple%20Economics%20of%20Artificial%20Intelligence%20by%20Ajay%20Agrawal.pdf) |
-6 | Python Machine Learning | Sebastian Raschka | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/Python_Machine_Learning_Sebastian_Raschka.pdf) |
-7 | Understanding Machine Learning: From Theory to Algorithms | Shai-Shalev Schwatrz, Shai Ben-David | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/M4-ML-theory-algorithms.pdf) |
+1 | Hands on Machine Learning with Scikit-Learn, Keras & Tensorflow | Aurélien Géron | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/Hands-on-Machine-Learning.pdf)
+2 | Introduction to Machine Learning | Ethem Alpaydın | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/M2-Machine_Learning_By_Ethem_Alpaydin.pdf) |
+3 | Machine Learning | Tom M. Mitchell | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/M1-Machine-Learning-Tom-Mitchell.pdf) |
+4 | Machine Learning : A Probabilistic Perspective | Kevin P. Murphy | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/M3-Machine_Learning.pdf) |
+5 | Machine Learning Models and Algorithms for Big Data Classification | Shan Sutharan | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/machine%20learning%20and%20algo.pdf) |
+6 | Prediction Machines | Ajay Agarwal, Joshua Gans, Avi Goldfarb | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/Prediction%20Machines-The%20Simple%20Economics%20of%20Artificial%20Intelligence%20by%20Ajay%20Agrawal.pdf) |
+7 | Python Machine Learning | Sebastian Raschka | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/Python_Machine_Learning_Sebastian_Raschka.pdf) |
+8 | Understanding Machine Learning: From Theory to Algorithms | Shai-Shalev Schwatrz, Shai Ben-David | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/M4-ML-theory-algorithms.pdf) |
 
 
 

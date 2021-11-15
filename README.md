@@ -33,6 +33,7 @@ This list contains free learning resources and Interview resources for Data Scie
 |  10  | SQL                         | [Click Here](#sql)                         |
 |  11  | Statistics                  | [Click Here](#statistics)                  |
 |  12  | Text Analysis               | [Click Here](#text-analysis)               |
+|  13  | Transfer Learning			 | [Click Here](#transfer-learning)			  |
 
 <br>
 
@@ -67,7 +68,8 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
-1 | Deep Learning | Ian Goodfellow, Yoshua Bengio, Aaron Courville | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Deep%20Learning/Deep%20Learning-Ian%20Goodfellow.pdf) |
+1 | Advanced Applied Deep Learning | Umberto Michelucci | [pdf](https://github.com/theDreamer911/Data-Science-EBooks/blob/main/Deep%20Learning/Advanced%20Applied%20Deep%20Learning-Umberto%20Michelucci.pdf) |
+2 | Deep Learning | Ian Goodfellow, Yoshua Bengio, Aaron Courville | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Deep%20Learning/Deep%20Learning-Ian%20Goodfellow.pdf) |
 
 
 <br>
@@ -177,7 +179,16 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
-1 | Applied Text Analysis with Python | Benjamin Bengfort, Rebecca Bilbro & Tony Ojeda | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Text%20Analysis/Benjamin%20Bengfort%2C%20Tony%20Ojeda%2C%20Rebecca%20Bilbro-Applied%20Text%20Analysis%20with%20Python_%20Enabling%20Language%20Aware%20Data%20Products%20with%20Machine%20Learning-O’Reilly%20Media%20(2017).pdf)
+1 | Applied Text Analysis with Python | Benjamin Bengfort, Rebecca Bilbro & Tony Ojeda | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Text%20Analysis/Benjamin%20Bengfort%2C%20Tony%20Ojeda%2C%20Rebecca%20Bilbro-Applied%20Text%20Analysis%20with%20Python_%20Enabling%20Language%20Aware%20Data%20Products%20with%20Machine%20Learning-O’Reilly%20Media%20(2017).pdf) |
+
+<br>
+<br>
+
+### Transfer Learning
+
+No | Title | Author | Link
+--- | --- | --- | ---
+1 | Transfer Learning | Qiang Yang, Yu Zhang, Wenyan Dai, Sinno Jialin Pan | [pdf](https://github.com/theDreamer911/Data-Science-EBooks/blob/main/Transfer%20Learning/Transfer%20Learning%20-%20Qiang%20Yang.pdf) |
 
 <br>
 <br>

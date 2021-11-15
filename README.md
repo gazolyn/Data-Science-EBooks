@@ -68,8 +68,9 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
-1 | Deep Learning | Ian Goodfellow, Yoshua Bengio, Aaron Courville | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Deep%20Learning/Deep%20Learning-Ian%20Goodfellow.pdf) |
-2 | Advanced Applied Deep Learning | Umberto Michelucci | [pdf](not_fixed_yet) |
+1 | Advanced Applied Deep Learning | Umberto Michelucci | [pdf](https://github.com/theDreamer911/Data-Science-EBooks/blob/main/Deep%20Learning/Advanced%20Applied%20Deep%20Learning-Umberto%20Michelucci.pdf) |
+2 | Deep Learning | Ian Goodfellow, Yoshua Bengio, Aaron Courville | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Deep%20Learning/Deep%20Learning-Ian%20Goodfellow.pdf) |
+
 
 <br>
 <br>
@@ -187,7 +188,7 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
-1 | Transfer Learning | Qiang Yang, Yu Zhang, Wenyan Dai, Sinno Jialin Pan | [pdf](not_yet_fixed ) |
+1 | Transfer Learning | Qiang Yang, Yu Zhang, Wenyan Dai, Sinno Jialin Pan | [pdf](https://github.com/theDreamer911/Data-Science-EBooks/blob/main/Transfer%20Learning/Transfer%20Learning%20-%20Qiang%20Yang.pdf) |
 
 <br>
 <br>

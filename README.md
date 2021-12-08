@@ -89,8 +89,8 @@ No | Title | Author | Link
 6 | Prediction Machines | Ajay Agarwal, Joshua Gans, Avi Goldfarb | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/Prediction%20Machines-The%20Simple%20Economics%20of%20Artificial%20Intelligence%20by%20Ajay%20Agrawal.pdf) |
 7 | Python Machine Learning | Sebastian Raschka | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/Python_Machine_Learning_Sebastian_Raschka.pdf) |
 8 | Understanding Machine Learning: From Theory to Algorithms | Shai-Shalev Schwatrz, Shai Ben-David | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Machine%20Learning/M4-ML-theory-algorithms.pdf) |
-
-
+9 | Handbook of Research on Emerging Trends and Applications of Machine Learning | Arun Solanki, Sandeep Kumar, Anand Nayyar | [pdf](https://github.com/theDreamer911/Data-Science-EBooks/blob/main/Machine%20Learning/Handbook_of_Research_on_Emerging_Trends_and_Applications_of_Machine.pdf) |
+10 | Practical Machine Learning with AWS | Himanshu Singh | [pdf](https://github.com/theDreamer911/Data-Science-EBooks/blob/main/Machine%20Learning/Practical_Machine_Learning_with_AWS_Process%2C_Himanshu%20Singh.pdf) |
 
 <br>
 <br>
@@ -103,6 +103,7 @@ No | Title | Author | Link
 2 | Ethics of AI | Nick Bostrom, Eliezer Yudkowsky | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Miscellaneous/EthicsofAI.pdf)
 3 | Hadoop : The definitive guide | Tom White | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Miscellaneous/Hadoop-The.Definitive.Guide_4.edition_a_Tom.White_April-2015-1.pdf)
 4 | Introduction to AI | Wolfgang Ertel | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/Miscellaneous/Introduction%20to%20AI.pdf)
+5 | LearningAlgorithms | George T. Heineman | [pdf](https://github.com/theDreamer911/Data-Science-EBooks/blob/main/Miscellaneous/Learning_Algorithms_George_T_Heineman.pdf) |
 
 <br>
 <br>
@@ -111,7 +112,8 @@ No | Title | Author | Link
 
 No | Title | Author | Link
 --- | --- | --- | ---
-1 | Natural Language Processing with Python | Steven Bird, Ewan Klein & Edward Loper | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/NLP/Natural_Language_Processing_with_Python.pdf)
+1 | Natural Language Processing with Python | Steven Bird, Ewan Klein & Edward Loper | [pdf](https://github.com/data-science-projects-and-resources/Data-Science-EBooks/blob/main/NLP/Natural_Language_Processing_with_Python.pdf) |
+2 | Real-World Natural Language Processing | Masato Hagiwara | [pdf](https://github.com/theDreamer911/Data-Science-EBooks/blob/main/NLP/Masato_Hagiwara_Real_World_Natural_Language_Processing_Practical.pdf) |
 
 <br>
 <br>
